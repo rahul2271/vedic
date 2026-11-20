@@ -9,7 +9,7 @@ export default function Hero() {
       <Parallax className="absolute inset-0" speed={0.18}>
         <div className="hero-bg absolute inset-0">
           <Image
-            src="/images/vedic.png"
+            src="/images/vedic.webp"
             alt="Vedic Nature Night-Blooming Florals Botanical Attar"
             fill
             priority
